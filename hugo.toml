@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme = "tophat"
+title = 'A for ADHD'
+# paginate = 5
+pagination.pagerSize = 5
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"    
+  
+  [[menu.social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/sergiobarriel" 
+
+  [[menu.social]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/sergiobarriel"
+
+[params]
+    
+  subtitle = "So much to do and so little time."
+  description = "Let's figure out life. Together."
+  author = "Brain"
+  favicon = true
+
+  main = "post"
+  featured = true
+  
+  # You can customize the visibility of some elements like date, reading time, words counter and tags inside article by setting true or false
+  show_date_on_article = true
+  show_reading_time_on_article = true
+  show_words_count_on_article = true
+  show_tags_on_article = true 

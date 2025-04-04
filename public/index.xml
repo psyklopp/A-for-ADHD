@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A for ADHD</title>
+    <link>http://localhost:39593/</link>
+    <description>Recent content on A for ADHD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 19:20:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:39593/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:39593/post/my-first-post/</link>
+      <pubDate>Fri, 25 Oct 2024 19:20:59 +0200</pubDate>
+      <guid>http://localhost:39593/post/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;something-here&#34;&gt;Something here&lt;/h2&gt;&#xA;&lt;p&gt;Then a lot of text.&lt;/p&gt;&#xA;&lt;p&gt;Then a lot of text.&lt;/p&gt;&#xA;&lt;p&gt;Then a lot of text.&lt;/p&gt;&#xA;&lt;p&gt;Then a lot of text.&lt;/p&gt;&#xA;&lt;p&gt;Then a lot of text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:39593/about/</link>
+      <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
+      <guid>http://localhost:39593/about/</guid>
+      <description>&lt;p&gt;There are a lot of things that define me and have led me to where I am today. I am grateful for every experience I had.&lt;/p&gt;&#xA;&lt;h2 id=&#34;going-out-of-my-city-for-bachelors-studies&#34;&gt;Going out of my city for bachelor&amp;rsquo;s studies&lt;/h2&gt;&#xA;&lt;p&gt;Helped me to see the world outside. Picked up both good and bad habits. Learned how to adjust and be like water. Learned how to learn. Got my first job as Java Developer in the German conglomorate Siemens. Blessed to have seen the corporate life&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:39593/links/</link>
+      <pubDate>Sun, 03 Sep 2023 18:53:50 +0200</pubDate>
+      <guid>http://localhost:39593/links/</guid>
+      <description>&lt;p&gt;Here I will share the links of my other social media profiles or online presence.&lt;/p&gt;&#xA;&lt;p&gt;The primary one being &lt;a href=&#34;https://dezible.com&#34;&gt;Dezible&lt;/a&gt;, my project where I want to share concepts/tutorials in cybersecurity, in the Q/A form.&lt;/p&gt;&#xA;&lt;p&gt;I also DJ sometimes and normally post my mixes on YouTube but here&amp;rsquo;s my Soundcloud page: &lt;a href=&#34;https://soundcloud.com/psyklopp&#34;&gt;Psyklopp - Soundcloud&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-latest-mix&#34;&gt;My latest mix!&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QY9N86FPXO0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;     &lt;/div&gt;&#xA;&#xA;&lt;p&gt;YouTube channel: &lt;a href=&#34;https://www.youtube.com/@Psyklopp&#34;&gt;Psyklopp&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
